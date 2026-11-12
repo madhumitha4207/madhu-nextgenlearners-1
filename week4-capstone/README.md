@@ -33,4 +33,4 @@ The baseline dataset (`applicants_cleaned.csv`, 76 applicant records from Week 1
 4. Click **Runtime > Run All** to execute every cell top to bottom.
 
 ## 6. Recorded Walkthrough
-* [Watch the 2–3 Minute Walkthrough Video Here](#)
+- [Watch the 2–3 Minute Walkthrough Video Here](https://drive.google.com/file/d/1LJnmrF-BKwFiFLPn-fi9qxA__4n7nAnr/view?usp=sharing)
